@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;Member.java&apos; to &apos;Dao&apos;" description="Move &apos;Member.java&apos; to &apos;Dao&apos;" destination="src/main/java/com/Dao" element1="src/main/java/com/Servlet/Member.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1714902170303" updateReferences="true"/>
+</session>
